@@ -1,7 +1,4 @@
-import Link from "next/link";
-import Navigation from "./_components/Navigation";
 import "./globals.css";
-import Image from "next/image";
 import { Josefin_Sans } from "next/font/google";
 import Header from "./_components/Header";
 
